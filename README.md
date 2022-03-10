@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wszechmogancy
-- 👀 I’m interested in HTML,JavaScrip and CSS
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in HTML,JavaScrip,PHP and CSS
+- 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
