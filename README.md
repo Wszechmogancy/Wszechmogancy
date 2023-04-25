@@ -7,4 +7,4 @@
 - 💞️ I’m looking to collaborate on my Little web game mmo RPG
 
 - 📫 How to reach me:
-ddiscord: johny#9038
+discord: johny#9038
