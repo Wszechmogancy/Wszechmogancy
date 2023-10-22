@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in HTML,JavaScrip,PHP and CSS
 
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m currently learning Angular
 
 - 💞️ I’m looking to collaborate on my Little web game mmo RPG
 
